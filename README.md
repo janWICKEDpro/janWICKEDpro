@@ -1,5 +1,5 @@
 ### Hello World! 👋
-### I am from Cameroon
+### I am from Cameroon and I like Mathematics
 
 - 🌱 I’m currently learning Front-end Development with React and flutter
 - 👯 I’m looking to collaborate on any cool front-end projects
